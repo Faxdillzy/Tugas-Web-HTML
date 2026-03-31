@@ -1,0 +1,16 @@
+p {
+    margin: 5px 0;
+    line-height: 1.5;
+}
+
+hr {
+    margin: 15px 0;
+}
+
+.warna1 {
+    color: red;
+}
+
+.warna2 {
+    color: blue;
+}

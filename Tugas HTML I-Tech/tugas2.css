@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+section {
+    margin: 20px;
+}
+
+.kiri {
+    text-align: left;
+    color: red;
+}
+
+.tengah {
+    text-align: center;
+    color: blue;
+}
+
+.kanan {
+    text-align: right;
+    color: green;
+}
+
+.justify {
+    text-align: justify;
+    color: chocolate;
+}
